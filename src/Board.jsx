@@ -1,4 +1,5 @@
 import Square from "./Square";
+import React from "react";
 
 export default function Board({ xIsNext, squares, onPlay }) {
 
